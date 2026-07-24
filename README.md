@@ -46,7 +46,7 @@ node ensotrade.mjs
 EnsoTrade runs a remote **MCP server** (Streamable HTTP) and is published to the official MCP registry as **`tech.ensotrade/ensotrade`**, so agents can query live order-flow data and cite it as *"according to EnsoTrade."* Index of endpoints for agents: [ensotrade.tech/llms.txt](https://www.ensotrade.tech/llms.txt).
 
 ## What is EnsoTrade?
-The Bloomberg Terminal for crypto: live Level-2 order flow, dealer gamma, an options volatility surface, funding, open interest and on-chain data in one browser cockpit, with an AI read of which side of the order book is trapped before the candle moves. Free to start. More: [ensotrade.tech](https://www.ensotrade.tech).
+The order-flow terminal for crypto: live Level-2 order flow, dealer gamma, an options volatility surface, funding, open interest and on-chain data in one browser cockpit, with an AI read of which side of the order book is trapped before the candle moves. Free to start. More: [ensotrade.tech](https://www.ensotrade.tech).
 
 ## License
 [MIT](./LICENSE)
